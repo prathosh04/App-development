@@ -20,12 +20,15 @@ body {
     border-bottom: 1px solid #ddd;
 }
 
-.profile-pic {
+.profile-picture img {
     width: 150px;
     height: 150px;
     border-radius: 50%;
-    margin-bottom: 10px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
 }
 
 h1 {
